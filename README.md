@@ -48,30 +48,62 @@
 <br>
 
 # 👨‍🔧기술 스택
-<div align="left">
-<div>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
-</div>
-
-<div>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
-</div>
-
-<div>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white">
-</div>
-
-<div>
-<img src="https://img.shields.io/badge/JUnit5-F3702A?style=flat-square&logo=#25A162&logoColor=white">
-<img src="https://img.shields.io/badge/Mockito-FF4F8B?style=flat-square&logo=Amazon CloudWatch&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-</div>
-
-</div>
+<table>
+<tr>
+ <td align="center">언어</td>
+ <td>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff"/>
+ </td>
+</tr>
+<tr>
+ <td align="center">번들러</td>
+ <td>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=FFDA44"/>
+ </td>
+</tr>
+<tr>
+ <td align="center">라이브러리</td>
+ <td>
+  <img src="https://img.shields.io/badge/Vue-61DAFB?style=for-the-badge&logo=Vue&logoColor=ffffff"/>&nbsp  
+  <img src="https://img.shields.io/badge/Axios-6028e0?style=for-the-badge&logo=Axios&logoColor=ffffff"/>&nbsp
+ </td>
+</tr>
+<tr>
+ <td align="center">상태관리</td>
+ <td>
+  <img src="https://img.shields.io/badge/Vuex-1678e0?style=for-the-badge&logo=Vuex&logoColor=ffffff"/>&nbsp  
+ </td>
+</tr>
+<tr>
+ <td align="center">패키지</td>
+ <td>
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=NPM&logoColor=ffffff"/>
+  </td>
+</tr>
+<tr>
+ <td align="center">포맷터</td>
+ <td>
+  <img src="https://img.shields.io/badge/Prettier-373338?style=for-the-badge&logo=Prettier&logoColor=ffffff"/>&nbsp 
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=ffffff"/>&nbsp 
+  <img src="https://img.shields.io/badge/Lint staged-02CBF2?style=for-the-badge&logo=Lint staged&logoColor=ffffff"/>&nbsp 
+ </td>
+</tr>
+<tr>
+ <td align="center">협업</td>
+ <td>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Notion-5a5d69?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Discord-4263f5?style=for-the-badge&logo=Discord&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Figma-d90f42?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp  
+ </td>
+</tr>
+<tr>
+ <td align="center">IDE</td>
+ <td>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp
+</tr>
 
 <br>
 <br>
