@@ -1,9 +1,7 @@
 <script setup lang="ts">
-import {ref} from "vue";
 import axios from "axios";
 import router from "@/router";
 
-const name = ref('')
 
 let item1 = localStorage.getItem("userData");
 
