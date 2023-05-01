@@ -1,28 +1,26 @@
 <script setup lang="ts">
 import {ref} from "vue";
-import axios from 'axios';
+import axios from "axios";
 import router from "@/router";
-
 
 const email = ref('')
 const password = ref('')
+const name = ref('')
 
 const login = function () {
-    axios.post("http://localhost:8080/api/login", {
+    axios.post("http://localhost:8080/api/members/login", {
         email: email.value,
         password: password.value
     }).then((response) => {
         console.log(response.data);
         localStorage.setItem("userData", JSON.stringify(response.data))
-        router.push("/")
+        router.push("/post")
     })
         .catch((error) => {
             console.error(error);
         });
 };
-
 </script>
-
 
 <template>
     <div>
@@ -35,7 +33,6 @@ const login = function () {
             <label for="password">Password:</label>
             <input type="password" id="password" v-model="password"/>
         </div>
-        <button type="primary" @click="login()">Submit</button>
+        <button class="green" @click="login()">확인</button>
     </div>
 </template>
-
