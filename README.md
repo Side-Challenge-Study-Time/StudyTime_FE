@@ -48,6 +48,7 @@
 <br>
 
 # 👨‍🔧기술 스택
+
 <table>
 <tr>
  <td align="center">언어</td>
@@ -104,6 +105,7 @@
  <td>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp
 </tr>
+</table>
 
 
 <br>
