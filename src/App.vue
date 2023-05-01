@@ -1,17 +1,9 @@
 <script setup lang="ts">
-import {RouterLink, RouterView} from 'vue-router'
+import Header from "@/components/Header.vue";
+import Content from "@/components/Content.vue";
 </script>
 
 <template>
-    <header>
-        <div>
-            <nav>
-                <RouterLink to="/">회원가입</RouterLink>
-                &nbsp;&nbsp;
-                <RouterLink to="/login">로그인</RouterLink>
-            </nav>
-        </div>
-    </header>
-
-    <RouterView/>
+    <Header/>
+    <Content/>
 </template>
